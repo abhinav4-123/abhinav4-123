@@ -20,14 +20,16 @@ I am a pre-final year student at IIT Roorkee, passionate about Machine Learning,
 
 ## Projects
 
-- List any significant projects or contributions you've made.
+- Potato Plant Disease Classifier
+- Plant Specie Identifier
+- Sign Language to Text
 
 ## Education
 
 - **Indian Institute of Technology (IIT), Roorkee**
-  - B.Tech. [Your Major], Expected Graduation [Year]
+  - B.Tech. [Chemical Engineering], Expected Graduation [2026]
 
-## Contact Me
+## Contacts
 
 - LinkedIn: [Abhinav Areliya](https://www.linkedin.com/in/abhinav-areliya-91aa13260)
 - Email: abhinavthakur812@gmail.com
