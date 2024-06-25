@@ -1,10 +1,37 @@
-- 👋 Hi, I’m @abhinav4-123
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Abhinav Areliya
+
+## About Me
+
+I am a pre-final year student at IIT Roorkee, passionate about Machine Learning, Deep Learning, and Software Development. I thrive in collaborative environments and am dedicated to leveraging technology to create a better tomorrow.
+
+## Interests
+
+- Machine Learning
+- Deep Learning
+- Software Development
+
+## Skills
+
+- Python
+- TensorFlow
+- Keras
+- Git
+- Teamwork
+
+## Projects
+
+- List any significant projects or contributions you've made.
+
+## Education
+
+- **Indian Institute of Technology (IIT), Roorkee**
+  - B.Tech. [Your Major], Expected Graduation [Year]
+
+## Contact Me
+
+- LinkedIn: [Abhinav Areliya](https://www.linkedin.com/in/abhinav-areliya-91aa13260)
+- Email: abhinavthakur812@gmail.com
+
 
 <!---
 abhinav4-123/abhinav4-123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
