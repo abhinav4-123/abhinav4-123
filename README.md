@@ -16,7 +16,9 @@ I am a pre-final year student at IIT Roorkee, passionate about Machine Learning,
 - TensorFlow
 - Keras
 - Git
-- Teamwork
+- C++
+- DSA
+- Numpy, Pandas
 
 ## Projects
 
